@@ -7,12 +7,10 @@ PLANNING:
 4. Juntarlas todas en una sola PCB
 5. Llevarla a Enrique para comprobar que funciona correctamente, y si no es así, corregir los errores
 6. Una vez comprobado que la PCB funciona a la perfección, encargar su fabricación por Internet
-
 https://www.pcbway.es/?currency=3
-8. Conseguir los motores y las ruedas
-
+7. Conseguir los motores y las ruedas
 https://www.amazon.es/Gebildet-Motorreductor-Tracción-Robótico-Neumático/dp/B08D39MFN1/ref=asc_df_B08D39MFN1/?tag=&linkCode=df0&hvadid=420349540689&hvpos=&hvnetw=g&hvrand=10269854428416406848&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005480&hvtargid=pla-937905506568&mcid=4c17839e2fe332fd8fbfa763e271e5d1&ref=&adgrpid=94419898965&th=1
-9. Diseñar una carcasa en 3D e imprimirla en la politécnica
-10. Montar y soldar todo
-11. Comprobar su funcionamiento y que cumple los requisitos pedidos en la práctica
-12. Pulir detalles
+8. Diseñar una carcasa en 3D e imprimirla en la politécnica
+9. Montar y soldar todo
+10. Comprobar su funcionamiento y que cumple los requisitos pedidos en la práctica
+11. Pulir detalles
