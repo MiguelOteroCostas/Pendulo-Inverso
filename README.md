@@ -16,6 +16,6 @@ https://www.amazon.es/Gebildet-Motorreductor-Tracción-Robótico-Neumático/dp/B
 11. Pulir detalles
 
 
-1.
-2.
-3. Conexion ESP32 con MPU 6050: https://www.youtube.com/watch?v=iLVahH4MrwQ
+1
+2
+3 Conexion ESP32 con MPU 6050: https://www.youtube.com/watch?v=iLVahH4MrwQ
