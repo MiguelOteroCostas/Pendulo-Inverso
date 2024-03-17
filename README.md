@@ -14,3 +14,8 @@ https://www.amazon.es/Gebildet-Motorreductor-Tracción-Robótico-Neumático/dp/B
 9. Montar y soldar todo
 10. Comprobar su funcionamiento y que cumple los requisitos pedidos en la práctica
 11. Pulir detalles
+
+
+1.
+2.
+3. Conexion ESP32 con MPU 6050: https://www.youtube.com/watch?v=iLVahH4MrwQ
