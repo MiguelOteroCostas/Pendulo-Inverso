@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 178)
+    (start_pass_no 385)
     (layer_rule F.Cu
       (active on)
       (preferred_direction vertical)
@@ -63,12 +63,12 @@
     )
   )
   (class "kicad_default"
-    "Net-(U1-VI)" GND "Net-(U1-VO)" VM VCC AO1 AO2 BO1
-    BO2 PWMA AIN1 AIN2 STBY BIN1 BIN2 PWMB
-    "unconnected-(U2-EN-Pad2)" "unconnected-(U2-SENSOR_VP-Pad3)" "unconnected-(U2-SENSOR_VN-Pad4)" "unconnected-(U2-IO34-Pad5)" "unconnected-(U2-IO35-Pad6)" "unconnected-(U2-IO32-Pad7)" "unconnected-(U2-IO33-Pad8)" "unconnected-(U2-IO25-Pad9)"
-    "unconnected-(U2-IO26-Pad10)" "unconnected-(U2-IO27-Pad11)" "unconnected-(U2-IO14-Pad12)" "unconnected-(U2-IO12-Pad13)" "unconnected-(U2-IO13-Pad15)" "unconnected-(U2-SD2-Pad16)" "unconnected-(U2-SD3-Pad17)" "unconnected-(U2-CMD-Pad18)"
-    "unconnected-(U2-CLK-Pad20)" "unconnected-(U2-SD0-Pad21)" "unconnected-(U2-SD1-Pad22)" "unconnected-(U2-IO15-Pad23)" "unconnected-(U2-IO5-Pad29)" "unconnected-(U2-IO18-Pad30)" "unconnected-(U2-IO19-Pad31)" "Net-(U2-IO21)"
-    "unconnected-(U2-RXD0-Pad34)" "unconnected-(U2-TXD0-Pad35)" "Net-(U2-IO22)" "unconnected-(U2-IO23-Pad37)" "unconnected-(U4-AUX_DA-Pad5)" "unconnected-(U4-AUX_CL-Pad6)" "unconnected-(U4-AD0-Pad7)" "unconnected-(U4-INT-Pad8)"
+    "Net-(IC2-VM1)" GND "Net-(U1-VO)" VCC AO1 AO2 BO1 BO2
+    PWMA AIN1 AIN2 STBY BIN1 BIN2 PWMB "unconnected-(U2-EN-Pad2)"
+    "unconnected-(U2-SENSOR_VP-Pad3)" "unconnected-(U2-SENSOR_VN-Pad4)" "unconnected-(U2-IO34-Pad5)" "unconnected-(U2-IO35-Pad6)" "unconnected-(U2-IO32-Pad7)" "unconnected-(U2-IO33-Pad8)" "unconnected-(U2-IO25-Pad9)" "unconnected-(U2-IO26-Pad10)"
+    "unconnected-(U2-IO27-Pad11)" "unconnected-(U2-IO14-Pad12)" "unconnected-(U2-IO12-Pad13)" "unconnected-(U2-IO13-Pad15)" "unconnected-(U2-SD2-Pad16)" "unconnected-(U2-SD3-Pad17)" "unconnected-(U2-CMD-Pad18)" "unconnected-(U2-CLK-Pad20)"
+    "unconnected-(U2-SD0-Pad21)" "unconnected-(U2-SD1-Pad22)" "unconnected-(U2-IO15-Pad23)" "unconnected-(U2-IO5-Pad29)" "unconnected-(U2-IO18-Pad30)" "unconnected-(U2-IO19-Pad31)" "Net-(U2-IO21)" "unconnected-(U2-RXD0-Pad34)"
+    "unconnected-(U2-TXD0-Pad35)" "Net-(U2-IO22)" "unconnected-(U2-IO23-Pad37)" "unconnected-(U4-AUX_DA-Pad5)" "unconnected-(U4-AUX_CL-Pad6)" "unconnected-(U4-AD0-Pad7)" "unconnected-(U4-INT-Pad8)"
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule
